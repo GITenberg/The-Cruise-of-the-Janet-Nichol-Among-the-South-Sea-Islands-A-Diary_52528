@@ -1,5 +1,8 @@
 _repo: The-Cruise-of-the-Janet-Nichol-Among-the-South-Sea-Islands-A-Diary_52528
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52528-h/images/cover-image.jpg
 creator:
   author:
     agent_name: Stevenson, Fanny Van de Grift
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/334
     wikipedia: http://en.wikipedia.org/wiki/Fanny_Stevenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52528#The-Cruise-of-the-Janet-Nichol-Among-the-South-Sea-Islands-A-Diary
 gutenberg_issued: '2016-07-08'
 gutenberg_type: Text
 identifiers:
