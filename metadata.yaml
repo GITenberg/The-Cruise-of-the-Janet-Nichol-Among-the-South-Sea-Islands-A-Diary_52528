@@ -1,0 +1,33 @@
+_repo: The-Cruise-of-the-Janet-Nichol-Among-the-South-Sea-Islands-A-Diary_52528
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stevenson, Fanny Van de Grift
+    aliases:
+    - Stevenson, Frances Matilda Van de Grift
+    - Vandergrift, Fanny
+    - Osbourne, Fanny Van de Grift
+    birthdate: 1840
+    deathdate: 1914
+    gutenberg_agent_id: '334'
+    url: http://www.gutenberg.org/2009/agents/334
+    wikipedia: http://en.wikipedia.org/wiki/Fanny_Stevenson
+description: ''
+gutenberg_issued: '2016-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52528'
+  lccn: '14017832'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stevenson, Fanny Van de Grift, 1840-1914 -- Travel -- Oceania'
+- !lcsh 'Janet Nichol (Ship)'
+- !lcsh 'Stevenson, Robert Louis, 1850-1894 -- Travel -- Oceania'
+- !lcc 'DU'
+- !lcsh 'Oceania -- Description and travel'
+- GITenberg
+title: 'The Cruise of the "Janet Nichol" Among the South Sea Islands: A Diary'
+url: http://www.gutenberg.org/ebooks/52528
